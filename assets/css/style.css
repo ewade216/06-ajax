@@ -1,0 +1,16 @@
+body {
+  background-color: #999;
+  font-family: 'Questrial', sans-serif;
+
+}
+
+.container {
+  background-color: #666;
+  width: 100%;
+  text-align: center;
+}
+
+.col-md {
+  margin: 20px;
+  width: 100%;
+}
